@@ -1,0 +1,7 @@
+{
+  "name": "cry-B – Baby Cry Monitoring & Alert System",
+  "description": "A calm, reassuring baby cry monitoring system that uses AI to help parents understand and respond to their baby's needs in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
